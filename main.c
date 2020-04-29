@@ -10,6 +10,7 @@
 
 #define MAX_NUM 20
 
+
 int main(int argc, char *argv[])
 {
 #if 0
